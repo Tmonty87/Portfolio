@@ -10,5 +10,11 @@ body {
 }
 
 .container-one {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+img {
     
 }
