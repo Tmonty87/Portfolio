@@ -26,6 +26,11 @@ ul, a {
     gap: 18px;
 }
 
+.container-image {
+    display: flex;
+    margin: 60px;
+}
+
 .container-one {
     display: flex;
     flex-direction: column;
@@ -43,11 +48,22 @@ ul, a {
 p {
     color: #e5e7eb;
     font-size: 18px;
+    
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 10px;
+    width: 100px;
+    margin-top: 10px;
 }
 
 
 img {
     width: 600px;
-    height: 400px;
+    height: 200px;
     padding: 16px;
 }
