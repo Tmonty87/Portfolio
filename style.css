@@ -32,6 +32,15 @@ ul, a {
     text-align: left;
 }
 
+.hero-main {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+
 img {
-    
+    width: 600px;
+    height: 400px;
+    padding: 16px;
 }
